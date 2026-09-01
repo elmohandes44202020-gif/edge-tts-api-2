@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+edge-tts
+pydantic
+python-telegram-bot
